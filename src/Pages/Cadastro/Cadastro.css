@@ -1,0 +1,47 @@
+.backcadastro {
+    height: 657px;
+    background-color: black;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.blococentralcadastro {
+    height: 580px;
+    width: 400px;
+    border-radius: 15px;
+    background-color: gray;
+    margin: auto;
+    vertical-align: auto;
+    text-align: center;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+}
+
+.cadastrousuario a {
+    color: black;
+    text-align: center;
+    margin-top: 2px;
+}
+
+.cadastrousuario {
+    display: flex;
+    flex-direction: column;
+    height: 100%;
+    width: 100%;
+    padding: 20px;
+    text-align: left;
+}
+
+.tituloCadastro {
+    font-size: 25pt;
+    font-weight: 700;
+    text-align: center;
+}
+
+.botao12 {
+    width: 120px;
+    margin: auto;
+}
